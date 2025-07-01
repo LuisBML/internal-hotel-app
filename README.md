@@ -1,4 +1,4 @@
-# Code along React course [Udemy course](https://www.udemy.com/course/the-ultimate-react-course/)
+# Code along React Course [(Udemy)](https://www.udemy.com/course/the-ultimate-react-course/)
 
 Full-Stack React App
 
